@@ -1,8 +1,9 @@
 import pickle
 
 semfile = open("foo.pickle", "r")
-seminars = pickle.load(semfile)
+seminars, meta = pickle.load(semfile)
 semfile.close()
+heading, links = meta
 
 page = '''\
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
@@ -32,7 +33,7 @@ page = '''\
                     <h2>Bath Numerical Analysis Seminar, 
                         '''
 
-page += "1st Semester 2015/2016"
+page += heading
 
 page += '''</h2>
                   </td>
@@ -110,7 +111,7 @@ for index, seminar in enumerate(seminars):
 '''
     page += entry
 
-page += """\
+page += '''\
                 </tbody>
               </table>
             </div>
@@ -154,53 +155,19 @@ page += """\
             </ul>
             <h4>Previous Numerical Analysis Seminars</h4>
             <ul>
-              <li> <a
-href="http://people.bath.ac.uk/em459/NASeminar/naseminar2014sem2.html">NA seminar for 2nd Semester 2014/2015</a> </li>
-              <li> <a
-href="http://people.bath.ac.uk/em459/NASeminar/naseminar2014sem1.html">NA seminar for 1st Semester 2014/2015</a> </li>
-              <li> <a
-href="http://people.bath.ac.uk/em459/NASeminar/naseminar2013sem2.html">NA seminar for 2nd Semester 2013/2014</a> </li>
-              <li> <a
-href="http://people.bath.ac.uk/em459/NASeminar/naseminar2013sem1.html">NA seminar for 1st Semester 2013/2014</a> </li>
-              <li> <a
-href="http://people.bath.ac.uk/em459/NASeminar/naseminar2012sem2.html">NA seminar for 2nd Semester 2012/2013</a> </li>
-              <li> <a
-href="http://people.bath.ac.uk/em459/NASeminar/naseminar2012sem1.html">NA seminar for 1st Semester 2012/2013</a> </li>
-              <li> <a
-                  href="http://people.bath.ac.uk/mamamf/naseminar2011sem2.html">NA seminar for 2nd Semester 2011/2012</a> </li>
-              <li> <a
-                  href="http://people.bath.ac.uk/eas25/naseminar2011sem1.html">NA
+'''
+for link in links:
+    text, url = link
+    entry = '''\
+              <li> <a href="'''
+    entry += url
+    entry += '''">'''
+    entry += text
+    entry += '''</a> </li>
+'''
+    page += entry
 
-
-
-                  seminar for 1st Semester 2011/2012</a> </li>
-              <li> <a
-                  href="http://people.bath.ac.uk/mamamf/naseminar2010sem2.html">NA
-
-
-
-                  seminar for 2nd Semester 2010/2011</a> </li>
-              <li> <a
-                  href="http://people.bath.ac.uk/mamamf/naseminar2010sem1.html">NA
-
-
-
-                  seminar for 1st Semester 2010/2011</a> </li>
-              <li> <a
-                  href="http://people.bath.ac.uk/mamamf/naseminar2009sem2.html">NA
-
-
-
-                  seminar for 2nd Semester 2009/2010</a>
-                <!--<li> <a href="http://people.bath.ac.uk/cn229/naseminars/">NA seminar for 1st Semester
-
-2009/2010</a>--> </li>
-              <li> <a
-                  href="http://www.maths.bath.ac.uk/%7Emasrs/nasemarchive.html">An
-
-
-
-                  archive of previous NA seminars</a> </li>
+page += '''
             </ul>
             <br>
             If you have any queries, please email Eike 
@@ -212,7 +179,7 @@ href="http://people.bath.ac.uk/em459/NASeminar/naseminar2012sem1.html">NA semina
     </table>
   </body>
 </html>
-"""
+'''
 
 outfile = open("test.html", "w")
 outfile.write(page)
