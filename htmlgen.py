@@ -30,7 +30,7 @@ page = '''\
                         alt="University of Bath" title="University of
                         Bath" align="left" border="0"> </a></td>
                   <td colspan="1" align="CENTER">
-                    <h2>Bath Numerical Analysis Seminar, 
+                    <h2>Bath Numerical Analysis Seminar,
                         '''
 
 page += heading
@@ -117,7 +117,7 @@ page += '''\
             </div>
             <h4>How to get to Bath</h4>
             See <a href="http://www.bath.ac.uk/getting-here/">here</a>
-            for instructions how to get to Bath. Please email Eike  
+            for instructions how to get to Bath. Please email Eike
             (address below) if you intend to come by car and
             require a parking permit for Bath University Campus for the
             day.
@@ -167,10 +167,10 @@ for link in links:
 '''
     page += entry
 
-page += '''
+page += '''\
             </ul>
             <br>
-            If you have any queries, please email Eike 
+            If you have any queries, please email Eike
             (<font face="Courier">e DOT mueller AT bath DOT ac DOT uk</font>). </td>
           <td width="7%"><br>
           </td>
