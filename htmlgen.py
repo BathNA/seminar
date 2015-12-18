@@ -101,7 +101,7 @@ for index, seminar in enumerate(seminars):
     entry += '''
                     <td>'''
     if abstract:
-        entry += '''<a href="'''
+        entry += '''<a href="Abstracts/'''
         entry += abstract
         entry += '''">'''
     entry += title
@@ -116,7 +116,7 @@ page += '''\
               </table>
             </div>
             <h4>How to get to Bath</h4>
-            See <a href="http://www.bath.ac.uk/getting-here/">here</a>
+            See <a href="http://www.bath.ac.uk/travel-advice/">here</a>
             for instructions how to get to Bath. Please email Eike
             (address below) if you intend to come by car and
             require a parking permit for Bath University Campus for the
