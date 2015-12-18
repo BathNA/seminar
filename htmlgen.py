@@ -1,6 +1,6 @@
 import pickle
 
-semfile = open("foo.pickle", "r")
+semfile = open("current.pickle", "r")
 seminars, meta = pickle.load(semfile)
 semfile.close()
 heading, links = meta
@@ -181,6 +181,6 @@ page += '''
 </html>
 '''
 
-outfile = open("test.html", "w")
+outfile = open("naseminar.html", "w")
 outfile.write(page)
 outfile.close()

@@ -37,4 +37,4 @@ links.append(["More archived seminars", "http://www.maths.bath.ac.uk/~masrs/nase
 
 meta.append(links)
 
-pickle.dump([seminars, meta], open('foo.pickle', 'w'))
+pickle.dump([seminars, meta], open('current.pickle', 'w'))
