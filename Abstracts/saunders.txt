@@ -1,0 +1,9 @@
+Molecular Dynamics (MD) has become a major tool in condensed matter physics
+and chemistry. However useful results often require substantial computational
+resource to produce. A major proportion of the University of Bath HPC facility
+is spent on calculations on or related to MD. I will introduce the concepts
+behind a MD simulation and provide motivation as to why a MD simulation is
+worthwhile. Furthermore I will demonstrate how a naive O(N^2) approach to
+computing the short range interactions can be improved to O(N) using cell
+based algorithms.
+

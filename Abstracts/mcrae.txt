@@ -1,0 +1,15 @@
+A central part of weather forecasting is simulating the underlying PDEs
+numerically.  The Met Office currently use a "C-grid" approach, in which
+variables are staggered at different horizontal locations.  This gives good
+representation of horizontal wave propagation, but requires a
+latitude-longitude grid to obtain other desirable properties.  Unfortunately,
+the excessive concentration of gridpoints close to the poles ultimately causes
+inefficient execution on massively-parallel supercomputers.  Shortly before I
+started my PhD, Colin Cotter (Imperial) proposed mixed finite element methods
+as a way of obtaining these desirable properties without being restricted to
+the latitude-longitude grid.  Such methods were introduced by Brezzi,
+Nedelec and others, in the 70s and 80s, and have recently been unified by 
+Doug Arnold and collaborators under the label "finite element exterior
+calculus".  We have used Arnold's ideas to extend our method in the vertical
+direction using tensor-product finite elements, producing a finite-element
+analogue of the Charney-Phillips vertical staggering.

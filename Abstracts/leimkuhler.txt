@@ -1,0 +1,11 @@
+A large class of problems in machine learning rely on Bayesian estimation of
+complex parameter dependencies which can be derived from invariant
+distributions of associated stochastic differential equations. These methods
+are closely related to techniques used for sampling molecular systems.
+Stochastic gradient methods, in which the gradient evaluation depends on a
+subsampling of the available data, can significantly reduce the computational
+cost, but the subsampling corrupts the gradient structure and introduces
+substantial errors in the associated probability distributions for parameters.
+I will describe the design of ``thermostatic'' controls and effective numerical
+methods for accurate recovery of the parameter distribution in the presence of 
+severe subsampling error. 

@@ -1,0 +1,8 @@
+The computational challenge of solving actually big statistical problems has
+dominated the field of computational statistics for the last few years.  The
+challenge is that it seems difficult to steal techniques from other fields, and
+this has required the development of a lot of new ideas.  In  this talk, I will 
+outline some of the problems in the field, talk about the ones where I think
+some constructive pilfering could be quite useful, and outline an Asynchronous
+Distributed Gibbs sampler that has appropriated 30-odd years of techniques for
+distributed numerical optimisation. 

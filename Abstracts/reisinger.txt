@@ -1,0 +1,14 @@
+Joint work with Peter Forsyth
+
+An advantageous feature of piecewise constant policy timestepping for
+Hamilton-Jacobi-Bellman (HJB) equations is that different linear approximation 
+schemes, and indeed different meshes, can be used for the resulting linear
+equations for different control parameters. Standard convergence analysis
+suggests that monotone (i.e., linear) interpolation must be used to transfer
+data between meshes. Using the equivalence to a switching system and an
+adaptation of the usual arguments based on consistency, stability and
+monotonicity, we show that if limited, potentially higher order interpolation
+is used for the mesh transfer, convergence is guaranteed. We provide numerical
+tests for the mean-variance optimal investment problem and the uncertain
+volatility option pricing model, and compare the results to published test
+cases.

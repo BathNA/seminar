@@ -1,0 +1,19 @@
+SPDEs with Levy noise can be used to model chemical, physical or biological
+phenomena which contain uncertainties. In this talk, we consider
+semi-discretised versions of these SPDEs which might be of large order. The
+goal is to save computational time by replacing large scale systems by systems
+of low order capturing the main information.
+
+In particular, we investigate stochastic heat and damped wave equations which
+we approximate by a Galerkin scheme. This leads to high dimensional ordinary
+SDEs. We reduce this dimension by using balancing related model order
+reduction (MOR) techniques which are well-known from the deterministic control
+theory and can be extended to stochastic equations as well. The idea of
+balancing a system is to create a system where the dominant reachable and
+observable states are the same. Afterwards, the diffcult to observe and
+diffcult to reach states are neglected to obtain a reduced order model.
+
+In this talk, we discuss balanced truncation and the singular perturbation
+approximation for stochastic equations with Levy noise which are balancing
+related MOR techniques. We compare these methods, summarise already existing
+results and discuss recent achievements.

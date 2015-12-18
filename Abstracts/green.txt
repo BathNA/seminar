@@ -1,0 +1,11 @@
+Given some experimental data, we often want to estimate the unknown parameters
+behind it. Sometimes however, all we really want to know is what’s going to
+happen next?
+In this talk, we follow the 2013 SIAM review paper by Chad Lieberman and Karen
+Willcox and look at how the inference-for-prediction method incorporates the
+end goal into the inference process, sacrificing parameter estimation accuracy
+for online efficiency.
+We shall investigate the motivation behind Goal-Oriented Inference and the
+control theoretic inspiration of Balanced Truncation, before looking at both a
+traditional method for these parameter dependent problems and the
+inference-for-prediction method.

@@ -1,0 +1,13 @@
+Monte Carlo methods have been used extensively in recent years to quantify
+uncertainty in real-life applications, ranging from nuclear reactors and
+aviation through to finance. We introduce a new Monte Carlo based sampling
+technique, known as Multi-Index Monte Carlo (MIMC), that allows us to gain
+further variance reduction in comparison with the Multilevel Monte Carlo
+method (MLMC). Ultimately, this is achieved by using a multi-dimensional set
+of hierarchies and by then taking higher order differences. We begin by
+introducing special cases of MIMC, namely the naive Monte Carlo and MLMC
+methods. From there we will present the underlying ideas behind MIMC, before
+showing how different choices of the set of hierarchies can reduce
+computational cost whilst maintaining accuracy.
+
+Based on a paper by Abdul-Lateef Haji-Ali et al. (2015).

@@ -1,0 +1,14 @@
+Nonlinear problems can permit several distinct solutions. For example, most
+optimisation problems arising in practice are nonconvex and permit multiple
+local minima. This leads to the question: if a problem has more than one
+solution, how can we compute them? In this talk, I present an algorithm for this
+purpose, called deflation. Given the residual of a nonlinear PDE, and one
+solution of it, deflation constructs a new problem with all of the solutions of
+the original problem, except for the one being deflated. This allows Newton's
+method to converge to different solutions, even starting from the same initial
+guess. An efficient preconditioning strategy is devised, and the number of
+Krylov iterations is observed not to grow as solutions are deflated; deflation
+scales to problems with billions of degrees of freedom. The technique is then
+applied to computing distinct solutions of nonlinear PDEs, tracing bifurcation
+diagrams, and to computing multiple local minima of PDE-constrained optimisation
+problems.

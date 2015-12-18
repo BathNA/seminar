@@ -1,0 +1,9 @@
+PDE-constrained optimization problems have a wide range of applications across
+numerical mathematics and applied science, so it is important to develop fast
+and feasible methods to solve such problems. We employ preconditioned iterative 
+methods to tackle the large and sparse matrix systems that arise from their
+discretization, and consider a range of issues related to these solvers. In
+particular, we discuss applications of reaction-diffusion control problems,
+strategies for handling additional box constraints on the PDE variables,
+approaches for problems involving fractional derivatives, and deferred
+correction methods for time-dependent problems.
