@@ -77,16 +77,20 @@ for index, seminar in enumerate(seminars):
         entry += '''\
                   <tr>'''
     entry += '''
-                    <td align="LEFT" valign="TOP" width="95">'''
+                    <td>'''
     entry += date
     entry += '''</td>'''
     entry += '''
-                    <td align="LEFT" valign="TOP" width="190"><a
-                        href="'''
-    entry += homepage
-    entry += '''">'''
+                    <td>'''
+    if homepage:
+        entry += '''<a href="'''
+        entry += homepage
+        entry += '''">'''
+
     entry += speaker
-    entry += '''</a> ('''
+    if homepage:
+        entry += '''</a>'''
+    entry += ''' ('''
     entry += institution
     entry += ')'
     if other:
@@ -94,12 +98,15 @@ for index, seminar in enumerate(seminars):
         entry += other
     entry += '''</td>'''
     entry += '''
-                    <td align="LEFT" valign="TOP" width="360"><a
-                        href="'''
-    entry += abstract
-    entry += '''">'''
+                    <td>'''
+    if abstract:
+        entry += '''<a href="'''
+        entry += abstract
+        entry += '''">'''
     entry += title
-    entry += '''</a></tr>
+    if abstract:
+        entry += '''</a>'''
+    entry += '''</tr>
 '''
     page += entry
 
