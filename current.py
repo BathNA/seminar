@@ -4,7 +4,7 @@
 import pickle
 
 meta = []
-meta.append("1st Semester 2015/2016")
+meta.append("2nd Semester 2015/2016")
 
 seminars = []
 # Fields: date, speaker, homepage URL, institution, misc, title, abstract link
