@@ -11,7 +11,7 @@ seminars = []
 
 seminars.append(["05 Feb 2016", "TBC", "", "", None, "", None])
 seminars.append(["12 Feb 2016", "TBC", "", "", None, "", None])
-seminars.append(["19 Feb 2016", "TBC", "", "", None, "", None])
+seminars.append(["19 Feb 2016", "Alison Ramage", "http://www.strath.ac.uk/staff/ramagealisondr/", "Strathclyde", None, "A multilevel preconditioner for data assimilation with 4D-Var", "ramage.txt"])
 seminars.append(["26 Feb 2016", "TBC", "", "", None, "", None])
 seminars.append(["04 Mar 2016", "TBC", "", "", None, "", None])
 seminars.append(["11 Mar 2016", "TBC", "", "", None, "", None])
