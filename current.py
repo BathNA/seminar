@@ -17,7 +17,7 @@ seminars.append(["04 Mar 2016", "TBC", "", "", None, "", None])
 seminars.append(["11 Mar 2016", "TBC", "", "", None, "", None])
 seminars.append(["18 Mar 2016", "Daniel Ruprecht", "https://www.engineering.leeds.ac.uk/people/mechanical/staff/d.ruprecht", "Leeds", None, "Spectral deferred corrections with fast-wave slow-wave splitting (exact title TBC)", None])
 seminars.append(["08 Apr 2016", "TBC", "", "", None, "", None])
-seminars.append(["15 Apr 2016", "TBC", "", "", None, "", None])
+seminars.append(["15 Apr 2016", "Patrick Kuerschner", "https://www2.mpi-magdeburg.mpg.de/mpcsc/kuerschner/", "MPI Magdeburg", None, "TBC", None])
 seminars.append(["22 Apr 2016", "TBC", "", "", None, "", None])
 seminars.append(["29 Apr 2016", "TBC", "", "", None, "", None])
 
