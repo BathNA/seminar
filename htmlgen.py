@@ -91,9 +91,10 @@ for index, seminar in enumerate(seminars):
     entry += speaker
     if homepage:
         entry += '''</a>'''
-    entry += ''' ('''
-    entry += institution
-    entry += ')'
+    if institution:
+        entry += ''' ('''
+        entry += institution
+        entry += ')'
     if other:
         entry += ' '
         entry += other
