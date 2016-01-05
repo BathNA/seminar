@@ -10,7 +10,7 @@ seminars = []
 # Fields: date, speaker, homepage URL, institution, misc, title, abstract link
 
 seminars.append(["05 Feb 2016", "Martin Schreiber", "https://emps.exeter.ac.uk/mathematics/staff/ms698", "Exeter", None, "Rational approximation of an exponential Integrator (exact title TBC)", None])
-seminars.append(["12 Feb 2016", "TBC", "", "", None, "", None])
+seminars.append(["12 Feb 2016", "Mark Opmeer", "http://www.maths.bath.ac.uk/~mo221/", "Bath", None, "TBC", None])
 seminars.append(["19 Feb 2016", "Alison Ramage", "http://www.strath.ac.uk/staff/ramagealisondr/", "Strathclyde", None, "A multilevel preconditioner for data assimilation with 4D-Var", "ramage.txt"])
 seminars.append(["26 Feb 2016", "TBC", "", "", None, "", None])
 seminars.append(["04 Mar 2016", "TBC", "", "", None, "", None])
