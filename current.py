@@ -10,11 +10,12 @@ seminars = []
 # Fields: date, speaker, homepage URL, institution, misc, title, abstract link
 
 seminars.append(["05 Feb 2016", "Martin Schreiber", "https://emps.exeter.ac.uk/mathematics/staff/ms698", "Exeter", None, "Rational approximation of an exponential Integrator (exact title TBC)", None])
+seminars.append(['''<font color="red"> 08 Feb 2016 (Monday) 13:15</font>''', "Steven Dargaville", "http://www.imperial.ac.uk/people/s.dargaville", "Imperial", None, "TBC", None])
 seminars.append(["12 Feb 2016", "Mark Opmeer", "http://www.maths.bath.ac.uk/~mo221/", "Bath", None, "TBC", None])
 seminars.append(["19 Feb 2016", "Alison Ramage", "http://www.strath.ac.uk/staff/ramagealisondr/", "Strathclyde", None, "A multilevel preconditioner for data assimilation with 4D-Var", "ramage.txt"])
 seminars.append(["26 Feb 2016", "Raymond Chan", "http://www.math.cuhk.edu.hk/~rchan/", "The Chinese University of Hong Kong", None, "TBC", None])
 seminars.append(["04 Mar 2016", "Anne Reinarz", "", "Bath", None, "TBC", None])
-seminars.append(["11 Mar 2016", "TBC", "", "", None, "", None])
+seminars.append(["11 Mar 2016", "Sergey Dolgov", "", "Bath", None, "TBC", None])
 seminars.append(["18 Mar 2016", "Daniel Ruprecht", "https://www.engineering.leeds.ac.uk/people/mechanical/staff/d.ruprecht", "Leeds", None, "Spectral deferred corrections with fast-wave slow-wave splitting (exact title TBC)", None])
 seminars.append(["08 Apr 2016", "TBC", "", "", None, "", None])
 seminars.append(["15 Apr 2016", "Patrick Kuerschner", "https://www2.mpi-magdeburg.mpg.de/mpcsc/kuerschner/", "MPI Magdeburg", None, "TBC", None])
