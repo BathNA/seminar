@@ -18,7 +18,7 @@ seminars.append(["04 Mar 2016", "Anne Reinarz", "", "Bath", None, "TBC", None])
 seminars.append(["11 Mar 2016", "Sergey Dolgov", "http://www.mpi-magdeburg.mpg.de/37834/employee_page?c=842836&amp;employee_id=39297", "Bath", None, "Tensor product approach for solution of multidimensional differential equations", "dolgov.txt"])
 seminars.append(["18 Mar 2016", "Daniel Ruprecht", "https://www.engineering.leeds.ac.uk/people/mechanical/staff/d.ruprecht", "Leeds", None, "Spectral deferred corrections with fast-wave slow-wave splitting (exact title TBC)", None])
 seminars.append(["08 Apr 2016", "TBC", "", "", None, "", None])
-seminars.append(["15 Apr 2016", "Patrick Kuerschner", "https://www2.mpi-magdeburg.mpg.de/mpcsc/kuerschner/", "MPI Magdeburg", None, "TBC", None])
+seminars.append(["15 Apr 2016", "Patrick Kuerschner", "http://www2.mpi-magdeburg.mpg.de/mpcsc/kuerschner/", "MPI Magdeburg", None, "TBC", None])
 seminars.append(["22 Apr 2016", "TBC", "", "", None, "", None])
 seminars.append(["29 Apr 2016", "TBC", "", "", None, "", None])
 
