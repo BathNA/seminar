@@ -69,7 +69,7 @@ page += '''</h2>
                   </tr>
 '''
 for index, seminar in enumerate(seminars):
-    date, speaker, homepage, institution, other, title, abstract = seminar
+    date, speaker, institution, title, homepage, abstract, other = seminar
     entry = ""
     if index % 2 == 0:
         entry += '''\
