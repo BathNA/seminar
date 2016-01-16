@@ -20,7 +20,7 @@ seminars.append(["18 Mar 2016", "Daniel Ruprecht", "Leeds", "Spectral deferred c
 seminars.append(["08 Apr 2016", "TBC", "", "", None, "", None])
 seminars.append(["15 Apr 2016", "Patrick Kuerschner", "MPI Magdeburg", "TBC", "http://www2.mpi-magdeburg.mpg.de/mpcsc/kuerschner/", None, None])
 seminars.append(["22 Apr 2016", "TBC", "", "", "", None, None])
-seminars.append(["29 Apr 2016", "TBC", "", "", "", None, None])
+seminars.append(["29 Apr 2016", "Matt Durey", "Bath", "TBC", "", None, None])
 
 links = []
 links.append(["2015/16 1st semester", "naseminar2015sem1.html"])
