@@ -1,0 +1,5 @@
+The numerical solution of parabolic time evolution problems such as the heat equation is required in numerous applications. Solving this problem using the boundary element method (BEM) is an attractive alternative to traditional methods, such as Finite Elements combined with a time-stepping scheme.
+
+In this talk we discuss combining BEM with anisotropic sparse tensor product bases that can yield improved convergence rates. This is expected to reduce the total work to $O(h^{-(d-1)})$, where $d$ is the spatial dimension and $h$ is the spatial mesh width.
+
+Using BEM generally leads to full systems, so we combine it with a wavelet method. This leads to sparse system matrices that can be solved in linear complexity. The theoretical results are supported by numerical experiments.
