@@ -10,7 +10,7 @@ seminars = []
 # Fields: date, speaker, institution, title, homepage URL, abstract link, misc
 
 seminars.append(["05 Feb 2016", "Martin Schreiber", "Exeter", "Massively parallel rational approximation of oscillatory problems", "https://emps.exeter.ac.uk/mathematics/staff/ms698", "schreiber.txt", None])
-seminars.append(['''<font color="red"> 08 Feb 2016 (Monday) 13:15</font>''', "Steven Dargaville", "Imperial", "Parallel multigrid and adaptive space/angle methods for the Boltzmann Transport Equation", "http://www.imperial.ac.uk/people/s.dargaville", "dargaville.txt", None])
+seminars.append(['''<font color="red"> 08 Feb 2016 (Monday) 13:15, CB 3.11</font>''', "Steven Dargaville", "Imperial", "Parallel multigrid and adaptive space/angle methods for the Boltzmann Transport Equation", "http://www.imperial.ac.uk/people/s.dargaville", "dargaville.txt", None])
 seminars.append(["12 Feb 2016", "Mark Opmeer", "Bath", "Approximation of a Quantity of Interest for a PDE", "http://www.maths.bath.ac.uk/~mo221/", "opmeer.txt", None])
 seminars.append(["19 Feb 2016", "Raymond Chan", "The Chinese University of Hong Kong", "Point-spread function reconstruction in ground-based astronomy", "http://www.math.cuhk.edu.hk/~rchan/", "chan.txt", None])
 seminars.append(["26 Feb 2016", "Alison Ramage", "Strathclyde", "A multilevel preconditioner for data assimilation with 4D-Var", "http://www.strath.ac.uk/staff/ramagealisondr/", "ramage.txt", None])
