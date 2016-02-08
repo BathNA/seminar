@@ -13,14 +13,14 @@ seminars.append(["05 Feb 2016", "Martin Schreiber", "Exeter", "Massively paralle
 seminars.append(['''<font color="red"> 08 Feb 2016 (Monday) 13:15, CB 3.11</font>''', "Steven Dargaville", "Imperial", "Parallel multigrid and adaptive space/angle methods for the Boltzmann Transport Equation", "http://www.imperial.ac.uk/people/s.dargaville", "dargaville.txt", None])
 seminars.append(["12 Feb 2016", "Mark Opmeer", "Bath", "Approximation of a Quantity of Interest for a PDE", "http://www.maths.bath.ac.uk/~mo221/", "opmeer.txt", None])
 seminars.append(["19 Feb 2016", "Raymond Chan", "The Chinese University of Hong Kong", "Point-spread function reconstruction in ground-based astronomy", "http://www.math.cuhk.edu.hk/~rchan/", "chan.txt", None])
-seminars.append(["26 Feb 2016", "Alison Ramage", "Strathclyde", "A multilevel preconditioner for data assimilation with 4D-Var", "http://www.strath.ac.uk/staff/ramagealisondr/", "ramage.txt", None])
-seminars.append(["04 Mar 2016", "Anne Reinarz", "Bath", "Sparse Galerkin BEM for the heat equation", "", "reinarz.txt", None])
+seminars.append(["26 Feb 2016", "Anne Reinarz", "Bath", "Sparse Galerkin BEM for the heat equation", "", "reinarz.txt", None])
+seminars.append(["04 Mar 2016", "Matt Durey", "Bath", "TBC", "", None, None])
 seminars.append(["11 Mar 2016", "Sergey Dolgov", "Bath", "Tensor product approach for solution of multidimensional differential equations", "http://www.mpi-magdeburg.mpg.de/37834/employee_page?c=842836&amp;employee_id=39297", "dolgov.txt", None])
 seminars.append(["18 Mar 2016", "Daniel Ruprecht", "Leeds", "Spectral deferred corrections with fast-wave slow-wave splitting (exact title TBC)", "https://www.engineering.leeds.ac.uk/people/mechanical/staff/d.ruprecht", None, None])
 seminars.append(["08 Apr 2016", "Matthew Thomas", "Bath", "TBC", "", None, None])
 seminars.append(["15 Apr 2016", "Patrick Kuerschner", "MPI Magdeburg", "TBC", "http://www2.mpi-magdeburg.mpg.de/mpcsc/kuerschner/", None, None])
 seminars.append(["22 Apr 2016", "TBC", "", "", "", None, None])
-seminars.append(["29 Apr 2016", "Matt Durey", "Bath", "TBC", "", None, None])
+seminars.append(["29 Apr 2016", "Alison Ramage", "Strathclyde", "A multilevel preconditioner for data assimilation with 4D-Var", "http://www.strath.ac.uk/staff/ramagealisondr/", "ramage.txt", None])
 
 links = []
 links.append(["2015/16 1st semester", "naseminar2015sem1.html"])
