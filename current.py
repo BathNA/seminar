@@ -21,6 +21,7 @@ seminars.append(["08 Apr 2016", "Matthew Thomas", "Bath", "TBC", "", None, None]
 seminars.append(["15 Apr 2016", "Patrick Kuerschner", "MPI Magdeburg", "TBC", "http://www2.mpi-magdeburg.mpg.de/mpcsc/kuerschner/", None, None])
 seminars.append(["22 Apr 2016", "Christian Litterer", "York", "TBC", "http://maths.york.ac.uk/www/cl1566", None, None])
 seminars.append(["29 Apr 2016", "Alison Ramage", "Strathclyde", "A multilevel preconditioner for data assimilation with 4D-Var", "http://www.strath.ac.uk/staff/ramagealisondr/", "ramage.txt", None])
+seminars.append(["TBC", "Ivan Graham", "Bath", "TBC", "http://people.bath.ac.uk/masigg/", None, None])
 
 links = []
 links.append(["2015/16 1st semester", "naseminar2015sem1.html"])
