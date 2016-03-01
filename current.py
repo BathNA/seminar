@@ -15,6 +15,7 @@ seminars.append(["12 Feb 2016", "Mark Opmeer", "Bath", "Approximation of a Quant
 seminars.append(["19 Feb 2016", "Raymond Chan", "The Chinese University of Hong Kong", "Point-spread function reconstruction in ground-based astronomy", "http://www.math.cuhk.edu.hk/~rchan/", "chan.txt", None])
 seminars.append(["26 Feb 2016", "Anne Reinarz", "Bath", "Sparse Galerkin BEM for the heat equation", "", "reinarz.txt", None])
 seminars.append(["04 Mar 2016", "Matt Durey", "Bath", "Droplets on a vibrating bath: from walking to butterflies", "", "durey.txt", None])
+seminars.append(['''<font color="red"> 08 Mar 2016 (Tuesday) 13:15</font>''', "Markus Bachmayr", "Laboratoire Jacques Louis Lyons, Paris", "Representations of Gaussian random fields and sparse approximation of lognormal diffusion problems", "https://www.ljll.math.upmc.fr/~bachmayr/", "bachmayr.txt", None])
 seminars.append(["11 Mar 2016", "Sergey Dolgov", "Bath", "Tensor product approach for solution of multidimensional differential equations", "http://www.mpi-magdeburg.mpg.de/37834/employee_page?c=842836&amp;employee_id=39297", "dolgov.txt", None])
 seminars.append(["18 Mar 2016", "Daniel Ruprecht", "Leeds", "Spectral deferred corrections with fast-wave slow-wave splitting (exact title TBC)", "https://www.engineering.leeds.ac.uk/people/mechanical/staff/d.ruprecht", None, None])
 seminars.append(["08 Apr 2016", "Matthew Thomas", "Bath", "TBC", "", None, None])
