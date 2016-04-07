@@ -20,7 +20,7 @@ seminars.append(["11 Mar 2016", "Sergey Dolgov", "Bath", "Tensor product approac
 seminars.append(["18 Mar 2016", "Daniel Ruprecht", "Leeds", "Boris-SDC and FWSW-SDC: Two new integration methods based on spectral deferred corrections", "https://www.engineering.leeds.ac.uk/people/mechanical/staff/d.ruprecht", "ruprecht.txt", None])
 seminars.append(["08 Apr 2016", "Matthew Thomas", "Bath", "The Numerical Analyst's guide to Approximate Bayesian Inference", "https://people.bath.ac.uk/mlt21/", "thomas.txt", None])
 seminars.append(["15 Apr 2016", "Patrick Kuerschner", "MPI Magdeburg", "Model Order Reduction and Large-scale Matrix Equations", "http://www2.mpi-magdeburg.mpg.de/mpcsc/kuerschner/", None, None])
-seminars.append(["22 Apr 2016", "Christian Litterer", "York", "TBC", "http://maths.york.ac.uk/www/cl1566", None, None])
+seminars.append(["22 Apr 2016", "Christian Litterer", "York", "Kusuoka-Stroock gradient bounds for the solution of the filtering equation", "http://maths.york.ac.uk/www/cl1566", "litterer.txt", None])
 seminars.append(["29 Apr 2016", "Alison Ramage", "Strathclyde", "A multilevel preconditioner for data assimilation with 4D-Var", "http://www.strath.ac.uk/staff/ramagealisondr/", "ramage.txt", None])
 seminars.append(["TBC", "Ivan Graham", "Bath", "TBC", "http://people.bath.ac.uk/masigg/", None, None])
 
