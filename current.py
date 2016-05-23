@@ -23,6 +23,7 @@ seminars.append(["15 Apr 2016", "Patrick Kuerschner", "MPI Magdeburg", "Model Or
 seminars.append(["22 Apr 2016", "Christian Litterer", "York", "Kusuoka-Stroock gradient bounds for the solution of the filtering equation", "http://maths.york.ac.uk/www/cl1566", "litterer.txt", None])
 seminars.append(["29 Apr 2016", "Alison Ramage", "Strathclyde", "A multilevel preconditioner for data assimilation with 4D-Var", "http://www.strath.ac.uk/staff/ramagealisondr/", "ramage.txt", None])
 seminars.append(["06 May 2016", "Ivan Graham", "Bath", "Preconditioners for finite element discretisations of the Helmholtz equation", "http://people.bath.ac.uk/masigg/", "graham.txt", None])
+seminars.append(['''<font color="red">09 Jun 2016 (Thursday) 15:15h</font>''', "Bill McLean", "The University of New South Wales", "Fast time-stepping for subdiffusion problems via exponential sum approximations", "http://web.maths.unsw.edu.au/~mclean/", "mclean.txt", None])
 
 links = []
 links.append(["2015/16 1st semester", "naseminar2015sem1.html"])

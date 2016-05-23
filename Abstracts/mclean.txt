@@ -1,0 +1,11 @@
+We describe a simple, fast algorithm for evaluating a
+Volterra convolution integral operator at N points of a grid with
+a cost that is almost linear in N.  By comparison, the cost is
+quadratic in N using the obvious approach.  The fast algorithm
+requires the kernel k(t) to be approximated by a sum of terms
+of the form w exp(-at) for t in a compact interval bounded away
+from zero.  This type of nonlinear approximation has proved useful
+for implementing nonreflecting boundary conditions for wave
+equations.  I will describe a more recent application to fractional
+PDEs, and a new method for deriving the necessary exponential sum
+approximation. 
