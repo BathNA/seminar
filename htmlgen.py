@@ -118,7 +118,7 @@ page += '''\
             </div>
             <h4>How to get to Bath</h4>
             See <a href="http://www.bath.ac.uk/travel-advice/">here</a>
-            for instructions how to get to Bath. Please email Eike
+            for instructions how to get to Bath. Please email Andrew
             (address below) if you intend to come by car and
             require a parking permit for Bath University Campus for the
             day.
@@ -171,8 +171,8 @@ for link in links:
 page += '''\
             </ul>
             <br>
-            If you have any queries, please email Eike
-            (<font face="Courier">e DOT mueller AT bath DOT ac DOT uk</font>). </td>
+            If you have any queries, please email Andrew
+            (<font face="Courier"><a href="mailto:A.T.T.McRae@bath.ac.uk">A.T.T.McRae@bath.ac.uk</a></font>). </td>
           <td width="7%"><br>
           </td>
         </tr>
