@@ -9,8 +9,8 @@ meta.append("1st Semester 2016/2017")
 seminars = []
 # Fields: date, speaker, institution, title, homepage URL, abstract link, misc
 
-seminars.append(["07 Oct 2016", "Silvia Gazzola", "Bath", "", "http://www.math.unipd.it/~gazzola/", "", None])
-seminars.append(["14 Oct 2016", "Gianluca Detommaso", "Bath", "", "http://xprs.imcreator.com/free/gianluca_d/mywebsite", "", None])
+seminars.append(["07 Oct 2016", "Gianluca Detommaso", "Bath", "", "http://xprs.imcreator.com/free/gianluca_d/mywebsite", "", None])
+seminars.append(["14 Oct 2016", "Silvia Gazzola", "Bath", "", "http://www.math.unipd.it/~gazzola/", "", None])
 seminars.append(["21 Oct 2016", "James Hook", "Bath", "Using max-plus algebra to approximate statistical leverage scores", "http://personalpages.manchester.ac.uk/staff/James.hook/homepage.html", "", None])
 seminars.append(["28 Oct 2016", "", "", "", "", "", None])
 seminars.append(["04 Nov 2016", "Alastair Gregory", "Imperial", "", "http://www.imperial.ac.uk/people/a.gregory14", "", None])
