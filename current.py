@@ -19,7 +19,7 @@ seminars.append(["18 Nov 2016", "", "", "", "", "", None])
 seminars.append(["25 Nov 2016", "Claudia Schillings", "<strike>Warwick</strike> Berlin", "", "https://www2.warwick.ac.uk/fac/sci/maths/people/staff/schillings/", "", None])
 seminars.append(["02 Dec 2016", "Joab Winkler", "Sheffield", "Polynomial computations for blind image deconvolution", "http://staffwww.dcs.shef.ac.uk/people/J.Winkler/", "", None])
 seminars.append(["09 Dec 2016", "Zhiwen Zhang", "Hong Kong", "", "http://hkumath.hku.hk/MathWWW/people.php?faculty.zhangzw", "", None])
-seminars.append(["16 Dec 2016", "", "", "", "", "", None])
+seminars.append(["16 Dec 2016", "Aretha Teckentrup", "<strike>Warwick</strike> Edinburgh", "", "https://www2.warwick.ac.uk/fac/sci/maths/people/staff/teckentrup/", "", None])
 
 links = []
 links.append(["2015/16 2nd semester", "naseminar2015sem2.html"])
