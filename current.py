@@ -10,7 +10,7 @@ seminars = []
 # Fields: date, speaker, institution, title, homepage URL, abstract link, misc
 
 seminars.append(["07 Oct 2016", "", "", "", "", "", None])
-seminars.append(["14 Oct 2016", "Silvia Gazzola", "Bath", "New challenges in the numerical solution of large-scale inverse problems", "http://www.math.unipd.it/~gazzola/", "", None])
+seminars.append(["14 Oct 2016", "Silvia Gazzola", "Bath", "New challenges in the numerical solution of large-scale inverse problems", "http://people.bath.ac.uk/sg968/", "", None])
 seminars.append(["21 Oct 2016", "", "", "", "", "", None])
 seminars.append(["28 Oct 2016", "James Hook", "Bath", "Using max-plus algebra to approximate statistical leverage scores", "http://personalpages.manchester.ac.uk/staff/James.hook/homepage.html", "", None])
 seminars.append(["04 Nov 2016", "Alastair Gregory", "Imperial", "", "http://www.imperial.ac.uk/people/a.gregory14", "", None])
