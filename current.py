@@ -9,10 +9,10 @@ meta.append("1st Semester 2016/2017")
 seminars = []
 # Fields: date, speaker, institution, title, homepage URL, abstract link, misc
 
-seminars.append(["07 Oct 2016", "", "", "", "", "", None])
+seminars.append(["07 Oct 2016", "James Hook", "Bath", "Using max-plus algebra to approximate statistical leverage scores", "http://personalpages.manchester.ac.uk/staff/James.hook/homepage.html", "", None])
 seminars.append(["14 Oct 2016", "Silvia Gazzola", "Bath", "New challenges in the numerical solution of large-scale inverse problems", "http://people.bath.ac.uk/sg968/", "", None])
 seminars.append(["21 Oct 2016", "", "", "", "", "", None])
-seminars.append(["28 Oct 2016", "James Hook", "Bath", "Using max-plus algebra to approximate statistical leverage scores", "http://personalpages.manchester.ac.uk/staff/James.hook/homepage.html", "", None])
+seminars.append(["28 Oct 2016", "Lei Zhang", "Shanghai Jiao Tong", "", "http://ins.sjtu.edu.cn/faculty/zhanglei", "", None])
 seminars.append(["04 Nov 2016", "Alastair Gregory", "Imperial", "", "http://www.imperial.ac.uk/people/a.gregory14", "", None])
 seminars.append(["11 Nov 2016", "Sébastien Loisel", "Heriot-Watt", "Optimized Schwarz method for heterogeneous problems", "http://www.macs.hw.ac.uk/~sl398/", "", None])
 seminars.append(["18 Nov 2016", "Aretha Teckentrup", "<strike>Warwick</strike> Edinburgh", "", "https://www2.warwick.ac.uk/fac/sci/maths/people/staff/teckentrup/", "", None])
