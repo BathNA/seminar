@@ -9,8 +9,8 @@ meta.append("1st Semester 2016/2017")
 seminars = []
 # Fields: date, speaker, institution, title, homepage URL, abstract link, misc
 
-seminars.append(["07 Oct 2016", "James Hook", "Bath", "Applications of tropical mathematics in numerical linear algebra", "http://personalpages.manchester.ac.uk/staff/James.hook/homepage.html", "hook.txt", None])
-seminars.append(["14 Oct 2016", "Silvia Gazzola", "Bath", "New challenges in the numerical solution of large-scale inverse problems", "http://people.bath.ac.uk/sg968/", "", None])
+seminars.append(["07 Oct 2016", "James Hook", "Bath", "Applications of tropical mathematics in numerical linear algebra", "http://www.bath.ac.uk/imi/people/index.html", "hook.txt", None])
+seminars.append(["14 Oct 2016", "Silvia Gazzola", "Bath", "New challenges in the numerical solution of large-scale inverse problems", "http://people.bath.ac.uk/sg968/", "gazzola.txt", None])
 seminars.append(["21 Oct 2016", "Abdul-Lateef Haji-Ali", "Oxford", "", "https://www.maths.ox.ac.uk/people/abdullateef.hajiali", "", None])
 seminars.append(["28 Oct 2016", "Lei Zhang", "Shanghai Jiao Tong", "Solving multi-scale PDEs: from numerical homogenization to fast solvers", "http://ins.sjtu.edu.cn/faculty/zhanglei", "", None])
 seminars.append(["04 Nov 2016", "Alastair Gregory", "Imperial", "A multilevel Monte Carlo approach to ensemble transform particle filtering", "http://www.imperial.ac.uk/people/a.gregory14", "gregory.txt", None])
