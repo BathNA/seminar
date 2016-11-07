@@ -22,8 +22,8 @@ seminars.append(["09 Dec 2016", "Zhiwen Zhang", "Hong Kong", "", "http://hkumath
 seminars.append(["16 Dec 2016", "Elizabeth Arter", "Bath", "", "", "", None])
 
 links = []
-links.append(["2015/16 2nd semester", "naseminar2015sem2.html"])
-links.append(["2015/16 1st semester", "naseminar2015sem1.html"])
+links.append(["2015/16 2nd semester", "Archive/naseminar2015sem2.html"])
+links.append(["2015/16 1st semester", "Archive/naseminar2015sem1.html"])
 links.append(["2014/15 2nd semester", "http://people.bath.ac.uk/em459/NASeminar/naseminar2014sem2.html"])
 links.append(["2014/15 1st semester", "http://people.bath.ac.uk/em459/NASeminar/naseminar2014sem1.html"])
 links.append(["2013/14 2nd semester", "http://people.bath.ac.uk/em459/NASeminar/naseminar2013sem2.html"])
