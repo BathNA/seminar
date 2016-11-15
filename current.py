@@ -17,7 +17,7 @@ seminars.append(["04 Nov 2016", "Alastair Gregory", "Imperial", "A multilevel Mo
 seminars.append(["11 Nov 2016", "Sébastien Loisel", "Heriot-Watt", "Optimized Schwarz methods for heterogeneous problems", "http://www.macs.hw.ac.uk/~sl398/", "loisel.txt", None])
 seminars.append(["18 Nov 2016", "Rob Scheichl", "Bath", "Multilevel Subset Simulation to Predict Rare Events", "http://www.bath.ac.uk/math-sci/contacts/academics/rob-scheichl/", "", None])
 seminars.append(["25 Nov 2016", "Claudia Schillings", "<strike>Warwick</strike> Berlin", "Scaling Limits in Computational Bayesian Inversion", "https://www2.warwick.ac.uk/fac/sci/maths/people/staff/schillings/", "schillings.txt", None])
-seminars.append(["02 Dec 2016", "Joab Winkler", "Sheffield", "Polynomial computations for blind image deconvolution", "http://staffwww.dcs.shef.ac.uk/people/J.Winkler/", "", None])
+seminars.append(["02 Dec 2016", "Joab Winkler", "Sheffield", "Image Processing by Polynomial Computations", "http://staffwww.dcs.shef.ac.uk/people/J.Winkler/", "winkler.txt", None])
 seminars.append(["09 Dec 2016", "Zhiwen Zhang", "Hong Kong", "", "http://hkumath.hku.hk/MathWWW/people.php?faculty.zhangzw", "", None])
 seminars.append(["16 Dec 2016", "Elizabeth Arter", "Bath", "", "", "", None])
 
