@@ -18,7 +18,7 @@ seminars.append(["11 Nov 2016", "Sébastien Loisel", "Heriot-Watt", "Optimized S
 seminars.append(["18 Nov 2016", "Rob Scheichl", "Bath", "Multilevel Subset Simulation to Predict Rare Events", "http://www.bath.ac.uk/math-sci/contacts/academics/rob-scheichl/", "scheichl.txt", None])
 seminars.append(["25 Nov 2016", "Claudia Schillings", "HU Berlin", "Scaling Limits in Computational Bayesian Inversion", "https://www2.mathematik.hu-berlin.de/~schillcl/", "schillings.txt", None])
 seminars.append(["02 Dec 2016", "Joab Winkler", "Sheffield", "Image Processing by Polynomial Computations", "http://staffwww.dcs.shef.ac.uk/people/J.Winkler/", "winkler.txt", None])
-seminars.append(["09 Dec 2016", "Zhiwen Zhang", "Hong Kong", "", "http://hkumath.hku.hk/MathWWW/people.php?faculty.zhangzw", "", None])
+seminars.append(["09 Dec 2016", "Zhiwen Zhang", "Hong Kong", "Multiscale tailored finite point method for second order elliptic equations with rough or highly oscillatory coefficients.", "http://hkumath.hku.hk/MathWWW/people.php?faculty.zhangzw", "zhang2.txt", None])
 seminars.append(["16 Dec 2016", "Elizabeth Arter", "Bath", "", "", "", None])
 
 links = []
