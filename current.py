@@ -13,7 +13,7 @@ seminars.append(["07 Oct 2016", "James Hook", "Bath", "Applications of tropical 
 seminars.append(["14 Oct 2016", "Silvia Gazzola", "Bath", "New challenges in the numerical solution of large-scale inverse problems", "http://people.bath.ac.uk/sg968/", "gazzola.txt", None])
 seminars.append(["21 Oct 2016", "Abdul-Lateef Haji-Ali", "Oxford", "Multi-index methods for quadrature", "https://www.maths.ox.ac.uk/people/abdullateef.hajiali", "hajiali.txt", None])
 seminars.append(["28 Oct 2016", "Lei Zhang", "Shanghai Jiao Tong", "Solving multi-scale PDEs: from numerical homogenization to fast solvers", "http://ins.sjtu.edu.cn/faculty/zhanglei", "zhang.txt", None])
-seminars.append(["04 Nov 2016", "Alastair Gregory", "Imperial", "A multilevel Monte-Carlo approach to ensemble transform particle filtering", "http://www.imperial.ac.uk/people/a.gregory14", "gregory.txt", None])
+seminars.append(["04 Nov 2016", "Alastair Gregory", "Imperial", "A multilevel Monte Carlo approach to ensemble transform particle filtering", "http://www.imperial.ac.uk/people/a.gregory14", "gregory.txt", None])
 seminars.append(["11 Nov 2016", "Sébastien Loisel", "Heriot-Watt", "Optimized Schwarz methods for heterogeneous problems", "http://www.macs.hw.ac.uk/~sl398/", "loisel.txt", None])
 seminars.append(["18 Nov 2016", "Rob Scheichl", "Bath", "Multilevel subset simulation to predict rare events", "http://www.bath.ac.uk/math-sci/contacts/academics/rob-scheichl/", "scheichl.txt", None])
 seminars.append(["25 Nov 2016", "Claudia Schillings", "HU Berlin", "Scaling limits in computational Bayesian inversion", "https://www2.mathematik.hu-berlin.de/~schillcl/", "schillings.txt", None])
