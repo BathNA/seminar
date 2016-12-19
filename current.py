@@ -11,7 +11,7 @@ seminars = []
 
 seminars.append(["10 Feb 2017", "", "", "", "", "", None])
 seminars.append(["17 Feb 2017", "", "", "", "", "", None])
-seminars.append(["24 Feb 2017", "", "", "", "", "", None])
+seminars.append(["24 Feb 2017", "reserved", "", "reserved", "", "", None])
 seminars.append(["3 Mar 2017", "", "", "", "", "", None])
 seminars.append(["10 Mar 2017", "", "", "", "", "", None])
 seminars.append(["17 Mar 2017", "", "", "", "", "", None])
