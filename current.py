@@ -17,7 +17,7 @@ seminars.append(["10 Mar 2017", "Marta Betcke", "UCL", "", "http://www0.cs.ucl.a
 seminars.append(["17 Mar 2017", "", "", "", "", "", None])
 seminars.append(["24 Mar 2017", "", "", "", "", "", None])
 seminars.append(["31 Mar 2017", "", "", "", "", "", None])
-seminars.append(["7 Apr 2017", "", "", "", "", "", None])
+seminars.append(["7 Apr 2017", "Oliver Dorn", "Manchester", "", "http://www.maths.manchester.ac.uk/people/staff/profile/?ea=Oliver.Dorn", "", None])
 seminars.append(["28 Apr 2017", "", "", "", "", "", None])
 seminars.append(["5 May 2017", "", "", "", "", "", None])
 
