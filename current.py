@@ -22,9 +22,9 @@ seminars.append(["28 Apr 2017", "", "", "", "", "", None])
 seminars.append(["5 May 2017", "", "", "", "", "", None])
 
 links = []
-links.append(["2016/17 1st semester", "Archive/naseminar2016sem1.html"])
-links.append(["2015/16 2nd semester", "Archive/naseminar2015sem2.html"])
-links.append(["2015/16 1st semester", "Archive/naseminar2015sem1.html"])
+links.append(["2016/17 1st semester", "naseminar2016sem1.html"])
+links.append(["2015/16 2nd semester", "naseminar2015sem2.html"])
+links.append(["2015/16 1st semester", "naseminar2015sem1.html"])
 links.append(["2014/15 2nd semester", "http://people.bath.ac.uk/em459/NASeminar/naseminar2014sem2.html"])
 links.append(["2014/15 1st semester", "http://people.bath.ac.uk/em459/NASeminar/naseminar2014sem1.html"])
 links.append(["2013/14 2nd semester", "http://people.bath.ac.uk/em459/NASeminar/naseminar2013sem2.html"])
