@@ -11,7 +11,7 @@ seminars = []
 
 seminars.append(["10 Feb 2017", "", "", "", "", "", None])
 seminars.append(["17 Feb 2017", "David Hewett", "UCL", "Wave scattering by fractal screens", "https://iris.ucl.ac.uk/iris/browse/profile?upi=DHEWE35", "hewett.txt", None])
-seminars.append(["24 Feb 2017", "reserved", "", "reserved", "", "", None])
+seminars.append(["24 Feb 2017", "Tom Goffrey", "Exeter", "", "http://emps.exeter.ac.uk/physics-astronomy/staff/tg300", "", None])
 seminars.append(["3 Mar 2017", "", "", "", "", "", None])
 seminars.append(["10 Mar 2017", "Marta Betcke", "UCL", "", "http://www0.cs.ucl.ac.uk/people/M.Betcke.html", "", None])
 seminars.append(["17 Mar 2017", "", "", "", "", "", None])
