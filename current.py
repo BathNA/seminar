@@ -18,7 +18,7 @@ seminars.append(["17 Mar 2017", "", "", "", "", "", None])
 seminars.append(["24 Mar 2017", "Anders Hansen", "Cambridge", "", "http://www.damtp.cam.ac.uk/people/a.c.hansen/", "", None])
 seminars.append(["31 Mar 2017", "", "", "", "", "", None])
 seminars.append(["7 Apr 2017", "Oliver Dorn", "Manchester", "", "http://www.maths.manchester.ac.uk/people/staff/profile/?ea=Oliver.Dorn", "", None])
-seminars.append(["28 Apr 2017", "", "", "", "", "", None])
+seminars.append(["28 Apr 2017", "Aretha Teckentrup", "Edinburgh", "", "http://www.maths.ed.ac.uk/school-of-mathematics/people?person=544", "", None])
 seminars.append(["5 May 2017", "", "", "", "", "", None])
 
 links = []
