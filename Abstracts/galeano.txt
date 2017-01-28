@@ -1,0 +1,1 @@
+We use Green's identities to derive a singular integral representation of the Dirichlet-to-Neumann operator associated to the Laplace problem for the half-space. We then compute a matrix representation of this operator for the case of axisymmetric surface waves. Finally, we present successful implementations of the method to water wave problems.
