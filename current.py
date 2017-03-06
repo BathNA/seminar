@@ -19,7 +19,7 @@ seminars.append(["24 Mar 2017", "Anders Hansen", "Cambridge", "", "http://www.da
 seminars.append(["31 Mar 2017", "Can Evren Yarman", "Schlumberger", "Generalization of Padé approximation from rational functions to arbitrary analytic functions", "", "yarman.txt", None])
 seminars.append(["7 Apr 2017", "Oliver Dorn", "Manchester", "", "http://www.maths.manchester.ac.uk/people/staff/profile/?ea=Oliver.Dorn", "", None])
 seminars.append(["28 Apr 2017", "Aretha Teckentrup", "Edinburgh", "", "http://www.maths.ed.ac.uk/school-of-mathematics/people?person=544", "", None])
-seminars.append(["5 May 2017", "", "", "", "", "", None])
+seminars.append(["5 May 2017", "Grigoris Katsiolides", "Bath", "", "", "", None])
 
 links = []
 links.append(["2016/17 1st semester", "naseminar2016sem1.html"])
