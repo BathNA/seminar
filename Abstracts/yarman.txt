@@ -1,0 +1,5 @@
+We extended the basic idea of Pade approximation to any arbitrary analytic function in a neighborhood of the Taylor series expansion point. This provides the flexibility of using other functions in a Pade-type approximation, yielding highly accurate approximations with additional desirable properties such as asymptotic behavior, easy to differentiate and take definite integrals. In this talk, I will review the theory and properties of the method and present examples of it in:
+
+(1) approximation of some classical special functions as well as a multidimensional special function,
+(2) representation of band-limited functions, and
+(3) a new way of constructing multiresolution representation.
