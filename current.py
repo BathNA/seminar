@@ -15,7 +15,7 @@ seminars.append(["24 Feb 2017", "Tom Goffrey", "Exeter", "A new approach to stel
 seminars.append(["3 Mar 2017", "Tony Kennedy", "ATI/Edinburgh", "Hybrid Monte Carlo", "http://www.ph.ed.ac.uk/people/tony-kennedy", "kennedy.txt", None])
 seminars.append(["10 Mar 2017", "Marta Betcke", "UCL", "Dynamical photoacoustic imaging", "http://www0.cs.ucl.ac.uk/people/M.Betcke.html", "betcke.txt", None])
 seminars.append(["17 Mar 2017", "Ander Biguri and Manasavee Lohvithee", "Bath", "GPU-accelerated iterative algorithms in Cone Beam Computerized Tomography", "", "biguri.txt", None])
-seminars.append(["24 Mar 2017", "Anders Hansen", "Cambridge", "", "http://www.damtp.cam.ac.uk/people/a.c.hansen/", "", None])
+seminars.append(["24 Mar 2017", "Anders Hansen", "Cambridge", "On Foundational Computational Problems in l1 and Total Variation Regularisation", "http://www.damtp.cam.ac.uk/people/a.c.hansen/", "hansen.txt", None])
 seminars.append(["31 Mar 2017", "Can Evren Yarman", "Schlumberger", "Generalization of Padé approximation from rational functions to arbitrary analytic functions", "", "yarman.txt", None])
 seminars.append(["7 Apr 2017", "Oliver Dorn", "Manchester", "", "http://www.maths.manchester.ac.uk/people/staff/profile/?ea=Oliver.Dorn", "", None])
 seminars.append(["28 Apr 2017", "Aretha Teckentrup", "Edinburgh", "", "http://www.maths.ed.ac.uk/school-of-mathematics/people?person=544", "", None])
