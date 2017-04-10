@@ -1,0 +1,3 @@
+A major challenge in the application of sampling methods in Bayesian inverse problems is the typically large computational cost associated with solving the forward problem. To overcome this issue, we consider using a Gaussian process emulator to approximate the forward map. This results in an approximation to the solution of the Bayesian inverse problem, and more precisely in an approximate posterior distribution. In this talk, we analyse the error in the approximate posterior distribution, and show that the approximate posterior tends to the true posterior as the accuracy of the Gaussian process emulator increases.
+
+The talk will include an introduction to both Bayesian inverse problems and Gaussian process emulators.

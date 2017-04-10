@@ -18,7 +18,7 @@ seminars.append(["17 Mar 2017", "Ander Biguri and Manasavee Lohvithee", "Bath", 
 seminars.append(["24 Mar 2017", "Anders Hansen", "Cambridge", "On Foundational Computational Problems in l1 and Total Variation Regularisation", "http://www.damtp.cam.ac.uk/people/a.c.hansen/", "hansen.txt", None])
 seminars.append(["31 Mar 2017", "Can Evren Yarman", "Schlumberger", "Generalization of Padé approximation from rational functions to arbitrary analytic functions", "", "yarman.txt", None])
 seminars.append(["7 Apr 2017", "Oliver Dorn", "Manchester", "Shape reconstruction techniques for solving inverse problems with interfaces", "http://www.maths.manchester.ac.uk/people/staff/profile/?ea=Oliver.Dorn", "dorn.txt", None])
-seminars.append(["28 Apr 2017", "Aretha Teckentrup", "Edinburgh", "", "http://www.maths.ed.ac.uk/school-of-mathematics/people?person=544", "", None])
+seminars.append(["28 Apr 2017", "Aretha Teckentrup", "Edinburgh", "Gaussian process emulators in Bayesian Inverse Problems", "http://www.maths.ed.ac.uk/school-of-mathematics/people?person=544", "teckentrup.txt", None])
 seminars.append(["5 May 2017", "Grigoris Katsiolides", "Bath", "Multilevel Monte Carlo and Improved Timestepping Methods in Atmospheric Dispersion Modelling", "", "katsiolides.txt", None])
 
 links = []
