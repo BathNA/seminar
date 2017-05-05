@@ -20,6 +20,7 @@ seminars.append(["31 Mar 2017", "Can Evren Yarman", "Schlumberger", "Generalizat
 seminars.append(["7 Apr 2017", "Oliver Dorn", "Manchester", "Shape reconstruction techniques for solving inverse problems with interfaces", "http://www.maths.manchester.ac.uk/people/staff/profile/?ea=Oliver.Dorn", "dorn.txt", None])
 seminars.append(["28 Apr 2017", "Aretha Teckentrup", "Edinburgh", "Gaussian process emulators in Bayesian Inverse Problems", "http://www.maths.ed.ac.uk/school-of-mathematics/people?person=544", "teckentrup.txt", None])
 seminars.append(["5 May 2017", "Grigoris Katsiolides", "Bath", "Multilevel Monte Carlo and Improved Timestepping Methods in Atmospheric Dispersion Modelling", "", "katsiolides.txt", None])
+seminars.append(["<font color="red">8 May 2017</font>", "Jens ???", "???", "Adaptivity in Numerical Methods for ODEs and PDEs", "", "jens.txt", None])
 
 links = []
 links.append(["2016/17 1st semester", "naseminar2016sem1.html"])
